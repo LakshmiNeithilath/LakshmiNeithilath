@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Data Science using Python
 - 📫 How to reach me: @neithilath_lakshmi
 - 😄 Pronouns: She/her
