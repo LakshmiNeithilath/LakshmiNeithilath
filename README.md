@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I love how certain words sound!
 
 
-Let the themes of the projects speak for themselves yk
+ Thats it,Let the themes of the projects speak for themselves yk
