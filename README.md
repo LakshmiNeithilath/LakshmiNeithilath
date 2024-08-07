@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Data Science using Python
+- 🌱 I’m currently learning well -embedded ML - Lets see where that leads me
 - 📫 How to reach me: @neithilath_lakshmi
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love how certain words sound!
