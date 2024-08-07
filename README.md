@@ -7,4 +7,3 @@
 - ⚡ Fun fact: I love how certain words sound!
 
 
- Thats it,Let the themes of the projects speak for themselves yk
